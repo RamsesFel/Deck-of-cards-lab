@@ -1,0 +1,37 @@
+﻿@model DeckModel
+<form asp-method="post">
+@{
+    
+    foreach(Card c in Model.cards)
+    {
+
+        <table>
+            <tr>
+            <td>@c.value of @c.suit</td>
+                <td><img src="@c.image" /></td>
+                <label>Keep</label>
+                <input type="checkbox" />
+            </tr>
+        </table>
+    }
+    }
+</form>
+@{
+    if(Model.remaining > 5)
+    {
+        <form asp-method="post" asp-action="CardResult">
+    <label>Draw 5</label>
+    <input type="checkbox" />
+    <input type="submit" />
+        </form>
+    }
+    else
+    {
+        <h3>Deck to low to draw 5 more please reshuffle</h3>
+    }
+    <form asp-method="post" asp-action="CardShuffle">
+            <label>Shuffle and draw 5</label>
+            <input type="checkbox" />
+            <input type="submit" />
+        </form>
+}

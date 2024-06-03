@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\deck of cards lab\\deck of cards lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|solutionrelative:deck of cards lab\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\deck of cards lab\\deck of cards lab\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|solutionrelative:deck of cards lab\\models\\deckmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\deck of cards lab\\deck of cards lab\\views\\home\\cardresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|solutionrelative:deck of cards lab\\views\\home\\cardresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\deck of cards lab\\deck of cards lab\\views\\home\\cards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|solutionrelative:deck of cards lab\\views\\home\\cards.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|c:\\users\\ramses\\source\\repos\\grand circus\\deck of cards lab\\deck of cards lab\\models\\deckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16204475-4126-4C35-9542-45F7CB5B5593}|Deck of Cards Lab\\Deck of Cards Lab.csproj|solutionrelative:deck of cards lab\\models\\deckdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeckModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Models\\DeckModel.cs",
+              "RelativeDocumentMoniker": "Deck of Cards Lab\\Models\\DeckModel.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Models\\DeckModel.cs",
+              "RelativeToolTip": "Deck of Cards Lab\\Models\\DeckModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T19:02:25.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Views\\Home\\CardResult.cshtml",
+              "RelativeDocumentMoniker": "Deck of Cards Lab\\Views\\Home\\CardResult.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Views\\Home\\CardResult.cshtml",
+              "RelativeToolTip": "Deck of Cards Lab\\Views\\Home\\CardResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T19:07:38.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Deck of Cards Lab\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Deck of Cards Lab\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:56:04.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cards.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Views\\Home\\Cards.cshtml",
+              "RelativeDocumentMoniker": "Deck of Cards Lab\\Views\\Home\\Cards.cshtml",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Views\\Home\\Cards.cshtml",
+              "RelativeToolTip": "Deck of Cards Lab\\Views\\Home\\Cards.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T18:50:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeckDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Models\\DeckDAL.cs",
+              "RelativeDocumentMoniker": "Deck of Cards Lab\\Models\\DeckDAL.cs",
+              "ToolTip": "C:\\Users\\Ramses\\source\\repos\\Grand Circus\\Deck of Cards Lab\\Deck of Cards Lab\\Models\\DeckDAL.cs",
+              "RelativeToolTip": "Deck of Cards Lab\\Models\\DeckDAL.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAIwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T18:43:46.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

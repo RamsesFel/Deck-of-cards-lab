@@ -1,0 +1,33 @@
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\appsettings.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.staticwebassets.runtime.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.exe
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.deps.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.runtimeconfig.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Deck of Cards Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.csproj.AssemblyReference.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.AssemblyInfoInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.AssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.csproj.CoreCompileInputs.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.RazorAssemblyInfo.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.RazorAssemblyInfo.cs
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets\msbuild.Deck of Cards Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets\msbuild.build.Deck of Cards Lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Deck of Cards Lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Deck of Cards Lab.props
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\scopedcss\bundle\Deck of Cards Lab.styles.css
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\scopedcss\projectbundle\Deck of Cards Lab.bundle.scp.css
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of .0919DE8E.Up2Date
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\refint\Deck of Cards Lab.dll
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.pdb
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\Deck of Cards Lab.genruntimeconfig.cache
+C:\Users\Ramses\source\repos\Grand Circus\Deck of Cards Lab\Deck of Cards Lab\obj\Debug\net8.0\ref\Deck of Cards Lab.dll
